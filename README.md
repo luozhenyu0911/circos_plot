@@ -11,3 +11,4 @@ circos -conf circos_label.conf
 #### We can chose the color schemes from **etc/colors** folder or refer to the following sites:
 - [Brewer palettes](https://mk.bcgsc.ca/brewer/)
 
+# circos_plot
